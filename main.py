@@ -4,7 +4,7 @@ import random
 import os
 
 # Read numbers from numbers.txt
-with open('social_shuffled.txt', 'r') as file:
+with open('numbers.txt', 'r') as file:
     numbers = file.readlines()
 
 
